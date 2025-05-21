@@ -4,8 +4,7 @@ using namespace std;
 
 int main(){
 	
-	cout << "quiero cafe dame cafe\n\t Tomate de aliño";
+	cout << "hasta logooo";
 
 	return 0;
 }
-
