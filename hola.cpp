@@ -21,6 +21,7 @@ int main(){
 	cout << "\n\tquiero cafe dame cafe\n\t Tomate de aliño";
 
 	vendedor_ambulante();
+	cout << "\n\n\n\n\t Tengo hambre y quiero cafe, pero tambien quisiera ser una moscaaaa";
 	return 0;
 }
 
