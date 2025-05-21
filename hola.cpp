@@ -21,7 +21,12 @@ int main(){
 	cout << "\n\tquiero cafe dame cafe\n\t Tomate de aliño";
 
 	vendedor_ambulante();
-	cout << "\n\n\n\n\t Tengo hambre y quiero cafe, pero tambien quisiera ser una moscaaaa";
+
+int num
+cout << "\n\tPor favor, escriba un numero: ";
+cin << num;
+if (num>0) 
+cout << "\n\ mi numero es: ";num + 1;
+
 	return 0;
 }
-
